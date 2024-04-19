@@ -8,9 +8,11 @@ A web app using React and Node.js to display information for Cisco Meraki device
 This application has both a frontend and backend.<br>The frontend utilizes React and the backend utilizes Node.js.
 
 ### Backend
-1. ```cd``` to the 'backend' folder
-2. Run ```npm install``` to download and install all dependencies
-3. Run ```npm start``` to start the backend
+
+1. Update the .env file within backend\src with your API key
+2.  ```cd``` to the 'backend' folder
+3. Run ```npm install``` to download and install all dependencies
+4. Run ```npm start``` to start the backend
 
 ### Frontend
 1. ```cd``` to the 'frontend' folder
