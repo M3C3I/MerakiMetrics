@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.h3dash {
+  border-style: dotted;
+  border-color: #424242;
+  margin-bottom: 20px;
+}
+.selection {
+  color: white;
+  padding: 20px;
+  background-color: #222222;
+  border-style: groove;
+  margin-left: 25%;
+  margin-right: 25%;
+}
